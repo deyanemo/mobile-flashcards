@@ -9,23 +9,6 @@ It is a mobile application that allows users to study collections of flashcards.
 
 The app is built with React Native and was developed and tested for **iOS only**.
 
-## Table of Contents
-
-* [Getting started](#getting-started)
-  * [Installation](#installation)
-* [Develop](#develop)
-  * [How to run](#how-to-run)
-  * [Tests](#tests)
-  * [Continuous Integration](#continuous-integration)
-  * [Style Guide](#style-guide)
-* [Release](#release)
-  * [Publish on Expo](#publish-on-expo)
-  * [Demo](#demo)
-* [License and Contributing](#license-and-contributing)
-* [Inspiration and Information](#inspiration-and-information)
-* [Expo React Native Documentation](#expo-react-native-documentation)
-  * [Expo Table of Contents](#expo-table-of-contents)
-
 ## Getting started
 
 ### Installation
@@ -66,4 +49,7 @@ cd mobile-flashcards
 
 # install the dependencies
 yarn install
+
+#run the project 
+yarn start
 ```
